@@ -1,0 +1,18 @@
+.my-bottom {
+    text-align: center;
+    font-size: 70%;
+    margin-bottom: 4pt;
+    display: block;
+    color: gray !important;
+}
+.my-bottom a,
+.my-bottom a:link,
+.my-bottom a:hover,
+.my-bottom a:active,
+.my-bottom a:visited {
+    color: gray !important;
+}
+
+.image-shortcode {
+    width: auto !important;
+}
